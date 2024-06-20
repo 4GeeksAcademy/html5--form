@@ -1,0 +1,17 @@
+.form-container{
+padding: 10%;
+}
+
+.top-r{
+    border-style:groove
+}
+
+.bottom-r{
+    border-style: groove;
+}
+
+.row{
+    border-left: groove;
+    border-right: groove;
+}
+
